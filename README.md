@@ -7,7 +7,7 @@ This project implements a Convolutional Neural Network (CNN) to classify stages 
 - Very Mild Demented
 ## Results
 The trained CNN model accurately identifies the class of MRI images. A visual representation of actual versus predicted classes is displayed below:
-![Model Results](results.png)
+![Model Results](__results___36_1.png)
 *(Note: Please ensure the `results.png` image you provided is saved to this directory before pushing, if it wasn't added yet).*
 ## Usage
 The notebook contains data preprocessing, model architecture design, training, and evaluation steps. Run the cells in `alzheimer-mri-classification-using-cnn-model.ipynb` to reproduce the results.
